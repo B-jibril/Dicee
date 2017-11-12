@@ -48,6 +48,8 @@ public class MainActivity extends AppCompatActivity {
 
                 rightDice.setImageResource(diceArray[number]);
 
+//  finished the dice app should work
+
 
             }
         });
